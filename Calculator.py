@@ -5,5 +5,5 @@ def subtract(c, d):
     return c - d
 def multiply(e,f):
     return e * f
-def divide(a, b):
+def divide_premium(a, b):
     return a/b
