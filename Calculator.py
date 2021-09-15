@@ -7,3 +7,5 @@ def multiply(e,f):
     return e * f
 def divide_free(a, b):
     return a/b
+def say_hello():
+    print("hello")
